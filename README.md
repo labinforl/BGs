@@ -1,1 +1,1 @@
-# grub-theme
+# Backgrounds
